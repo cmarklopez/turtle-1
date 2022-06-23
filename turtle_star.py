@@ -1,6 +1,8 @@
+'''
+
 from turtle import *
 
-color('red', 'yellow')
+color("red", "yellow")
 begin_fill()
 while True:
     forward(200)
@@ -9,4 +11,10 @@ while True:
         break
 end_fill()
 done()
+'''
 
+if (0):
+    print("True")
+else:
+    print("False")
+print(type(range(5)))
